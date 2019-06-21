@@ -1,0 +1,22 @@
+{
+  "name": "test-cypress-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex250195/test-cypress-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex250195/test-cypress-ui/issues"
+  },
+  "homepage": "https://github.com/alex250195/test-cypress-ui#readme",
+  "dependencies": {
+    "cypress": "^3.3.1"
+  }
+}
